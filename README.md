@@ -2,4 +2,4 @@
 
 Git test repo Bogdan
 
-Readme.md file was just edited manually from Github. This file was modified locally.
+This line was modified manually during conflict resolution.
